@@ -192,19 +192,16 @@ video{
     position: relative;
     z-index: 10;
 }
-#about-us-in-h3{
+#about-us-in h3 {
     font-size: 54px;
     font-weight: 800;
-    margin-bottom: 40px;
-    position: relative;
-    z-index: 10;
-}
-#about-us-in p{
+    margin-bottom: 30px;
+  }
+  #about-us-in p {
     font-size: 20px;
     line-height: 26px;
-    position: relative;
-    z-index: 10;
-}
+  }
+  
 #cards-container{
     /*background-color: red;*/
     height: 60vh;
